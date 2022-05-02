@@ -1,0 +1,37 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-contact-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-contact-reads/SAP_API_Caller.(*SAPAPICaller).ContactCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E038C2E1EE299C1C3AB1D246FA0",
+			"ParentObjectID": "00163E038C2E1EE299C1BB0BE93B6F9B",
+			"ETag": "2020-04-09T01:11:03+09:00",
+			"ContactID": "1000476",
+			"AccountID": "1001",
+			"AccountFormattedName": "Porter LLC",
+			"ReverseMainIndicator": true,
+			"DepartmentCode": "0001",
+			"DepartmentCodeText": "Purchasing Dept",
+			"FunctionCode": "0002",
+			"FunctionCodeText": "Purchasing Manager",
+			"VIPReasonCode": "",
+			"VIPReasonCodeText": "",
+			"JobTitle": "",
+			"Department": "",
+			"Building": "",
+			"Floor": "",
+			"Room": "",
+			"Email": "doug.gamoff@3M.com",
+			"EmailInvalidIndicator": false,
+			"Fax": "+1 (573) 598-7485",
+			"Mobile": "+1 (712) 242-5596",
+			"Phone": "+1 (865) 813-0643",
+			"BestReachedByCode": "",
+			"BestReachedByCodeText": "",
+			"OrganisationAddressUUID": "00163E03-8C2E-1EE2-99C1-C394370BAFA0",
+			"EntityLastChangedOn": "2013-09-30T16:07:51+09:00"
+		}
+	],
+	"time": "2022-05-02T17:39:38+09:00"
+}
